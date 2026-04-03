@@ -201,6 +201,8 @@
   "command.help.description.duel": "1v1 another player",
   "command.help.description.botduel": "1v1 a bot player",
   "command.help.description.clickdebugger": "Shows basic click statistics",
+  "command.help.description.damage": "Applies damage to you",
+  "command.help.description.fly": "Toggles fly mode",
 
   "gui.select": "Click to select",
   "anticheat.message.failed": "failed",
@@ -355,6 +357,14 @@
 
   "command.clickdebugger.toggle.on": "Click Debugger is now on",
   "command.clickdebugger.toggle.off": "Click Debugger is now off",
+
+  "command.damage.invalid": "Usage: /damage <amount>",
+  "command.damage.invalid_amount_less_than_0": "Damage has to be more than 0",
+  "command.damage.invalid_amount_more_than_20": "Damage cannot be more than 20",
+  "command.damage.applied": "Applied",
+
+  "command.fly.enabled": "Fly is now enabled",
+  "command.fly.disabled": "Fly is now disabled",
 
   "textureID": "c439d7f9c67f32dcbb86b7010b1e14b60de96776a35f61cee982660aacf5264b",
 
